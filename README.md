@@ -58,6 +58,13 @@ Customers were segmented using:
 
 ![RFM Table](images/rfm.png)
 
+
+## 3️⃣ RFM Segmentation
+
+Customers were segmented using Recency, Frequency, and Monetary metrics.
+
+### Recency Distribution
+![Recency Distribution](images/recency_distribution.png)
 ---
 
 ## 4️⃣ Strict Churn Risk Assessment
