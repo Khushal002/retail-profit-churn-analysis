@@ -98,4 +98,12 @@ This analysis demonstrates how data-driven segmentation and financial risk model
 
 ---
 
-## 📁 Repository Structure
+
+---
+
+## 👤 Author
+
+Khush Kashyap  
+Aspiring Business Analytics Professional  
+Master’s in IT (AI & Data Science) – Incoming  
+Focused on Data-Driven Decision Making & Customer Analytics
