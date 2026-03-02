@@ -86,3 +86,17 @@ This analysis demonstrates how data-driven customer segmentation and financial r
 ---
 
 ## 📁 Repository Structure
+
+## 📊 Key Results
+
+### Revenue Concentration
+![Revenue](images/revenue.png)
+
+### Profit Concentration
+![Profit](images/profit.png)
+
+### Strict Churn Risk
+![Churn Risk](images/churn.png)
+
+### RFM Segmentation Preview
+![RFM Table](images/rfm.png)
